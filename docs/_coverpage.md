@@ -5,4 +5,4 @@
 > 主要用于总结Java技术相关文档以及各类知识图谱
 
 [GitHub](https://github.com/mrh167/rhperknowledge.github.io.git)
-[Get Started](#quick-start)
+[Get Started](README.md)

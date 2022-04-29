@@ -1,19 +1,19 @@
-
+<!-- 
 <p align="center">
-    <!-- <a href="https://www.r2coding.com/" target="_blank">
+    <a href="https://www.r2coding.com/" target="_blank">
         <img src="" width=""/>
-    </a> -->
-</p>
+    </a>
+</p> -->
 
 
-<p align="center">
-  <!-- <a href="https://github.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Github-r2coding-red.svg"></a> -->
-  <!-- <a href="https://gitee.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Gitee-r2coding-blue.svg"></a> -->
-  <!-- <a href="https://space.bilibili.com/384068749" target="_blank"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical"></a> -->
-  <!-- <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank"> -->
-    <!-- <img src="https://img.shields.io/badge/微信联系作者-WeChat-green.svg" alt="微信联系"> -->
+<!-- <p align="center">
+   <a href="https://github.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Github-r2coding-red.svg"></a>
+  <a href="https://gitee.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Gitee-r2coding-blue.svg"></a>
+   <a href="https://space.bilibili.com/384068749" target="_blank"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical"></a>
+  <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
+  <img src="https://img.shields.io/badge/微信联系作者-WeChat-green.svg" alt="微信联系">
   </a>
-</p>
+</p> -->
 <!-- 
 ---
 # **为什么会有这个网站**
@@ -35,8 +35,11 @@
 ![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/contentmap.3sdmma4od740.png)
 
 --- -->
-# **Java代码示例**
-[Java代码示例](docsMark/codeView/JavaDemo.md)
+# **工具类封装**
+[easyExcel封装](docsMark/codeView/easyExcel.md)
+
+[redisUtils](docsMark/codeView/redisAllUtils.md)
+
 # **编程自学路线+知识大梳理**
 
 <!-- ---
@@ -632,20 +635,6 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
   - [面试题：Java虚拟机（JVM）面试题大集合2](https://mp.weixin.qq.com/s/ZYoeC8yyfReEJDFSqiW8hw)
 
 
-#### **C语言**
-
-- 待更新...
-
-
-#### **C++**
-
-- 待更新...
-
-#### **Golang**
-
-- 待更新...
-
-
 <!-- tabs:end -->
 
 ---
@@ -1208,41 +1197,6 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 - [怎么准备国企和银行？](https://mp.weixin.qq.com/s/YP4qafQ8gPbB7W0CkfACug)
 - [去银行当程序员是一种什么体验](https://mp.weixin.qq.com/s/u_jIpGfmH4BHYS7hIlQk9w)
 
-
-## 城市/公司选择
-
-- [一二线城市知名IT互联网公司总名单](https://mp.weixin.qq.com/s/VFocc914mGTrDzodI-MF1A)
-- [常见互联网公司职级和薪资一览](https://mp.weixin.qq.com/s/5gtu7B05EKbPDXvhha5uNQ)
-- [常见互联网公司时薪排行榜](https://mp.weixin.qq.com/s/wvdzBTcLLaeEtCqZI6T_Qg)
----
-- [成都有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/UDWHt3QwsZBfZ25-pddwhQ)
-- [武汉有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/bjHmAtPrSKQCDjfr9Mu0_Q)
-- [南京有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/kskE2wJx_QtT6vCgsrUgIA)
-- [合肥有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/tBNWFJbkjkV0bEPh4t9VQg)
-- [深圳有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/dtJBi4QXXTrGkKTPM0y7VA)
-- [成都有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/t4L45znsZRmWQ7MIQQtvhg)
-- [西安有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/eD3tjUC4qASHH0WSWhz57Q)
-- [长沙有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/UQHJ-iZDvQb3RLwQsELbUQ)
-- [武汉有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/6dh1jbmuDqnHBoM7beTQbg)
-- [天津有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/Ks9XLLUh099wSHWG0OBf1g)
-- [郑州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/8-uZUrG8_ziR5tKl1K8YNw)
-- [杭州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/Bwu0MDQhZiaY0vj3HsEsLg)
-- [广州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/s5UhdFyj9-8bqwQyZUMvVA)
-- [青岛有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/Miu3eC6hqJlK8fi8Qr-DtQ)
-- [上海有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/zYI8qW3Zfu2ySeO-PDqwZA)
-- [大连有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/12inr2oRTULf7NhYOBGMYw)
-- [苏州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/529Zv24uToDW4xxEOFdiqw)
-
-## 其他求职相关问题
-
-- [为什么有些大公司技术却弱爆了？](https://mp.weixin.qq.com/s/QUJzl1ZG77DDnQNK0OAsHg)
-- [嵌入式行业到底有没有搞头？](https://mp.weixin.qq.com/s/iV7DMApxhEw5YL-upIowVA)
-- [找工作时，公司所说的「给期权」到底是什么东西？](https://mp.weixin.qq.com/s/9XMAvP_t0B1Ev57-ZC42yw)
-- [入职一家公司，应该选择新业务还是老业务？](https://mp.weixin.qq.com/s/cu7mDeU2q2uEG8Q0CPzDEA)
-- [采访了一位技术总监：聊了聊跳槽的心态问题](https://mp.weixin.qq.com/s/NGJc71cW2TKEONe6jhIUSg)
-- [程序员从技术→管理，要走哪些路？](https://mp.weixin.qq.com/s/4_MB3L511h7qoXNxPRdOvQ)
-
-
 ---
 # **视频教程推荐**
 
@@ -1404,196 +1358,11 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 - [下载 → 豆瓣9.1分的Pro Git学习手册YYDS！](https://mp.weixin.qq.com/s/xDYSG4uDz9rgNCuk0RxLjg)
 - [下载 → 《Linux命令行大全》.pdf手册](https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g)
 
----
-# **编码之外**
 
----
-> [!NOTE]
->  诚然，程序员应该重视代码，但眼里也不应该只有代码，很多代码之外的东西也很精彩。工作也是为了更好的生活，多看看身边的事，多关心身边的人，终究我们还是要回归到平凡的生活中。
-> 
->  **我们所热爱的，就是自己的生活！**
----
+<!-- ## 微信联系 -->
 
-## 码农生活
-
-- [办公室划水？嘿嘿，这事我擅长...](https://mp.weixin.qq.com/s/zRU-n-5VOgrMqG09477RyQ)
-- [戴着耳机敲代码，我都听些啥？](https://mp.weixin.qq.com/s/7_2ibVNVMZLEYl89zT7sGQ)
-- [程序员猪队友行为大赏，你遇到过哪些？](https://mp.weixin.qq.com/s/1dJO8VJ6GaZykv33IUslkw)
-- [写给程序员看的买房+考公务员攻略](https://mp.weixin.qq.com/s/f8KtgdRx6ATbR-4RY_I_aA)
-- [毕业租房避坑攻略（含购物清单）](https://mp.weixin.qq.com/s/9fyrQPqfXx2bhbXjyYdnaw)
-- [加班严重时该如何自我提升？](https://mp.weixin.qq.com/s/oCQWlUkQ7ezgtYdono3BzA)
-- [在腾讯待了9年还离了职](https://mp.weixin.qq.com/s/SclEMeRJTqSVq-HsXaLNTQ)
-- [聊一聊自学计算机的辛酸史](https://mp.weixin.qq.com/s/AFnB33Rs7ahbjiX1CqfccQ)
-- [一个算法工程师的日常](https://mp.weixin.qq.com/s/-vBrii3kn5lNn0Bj4rzAdg)
-- [测试岗与开发岗的那些爱恨情仇](https://mp.weixin.qq.com/s/3Vf49cYXfwp6znt_SJhgsg)
-- [采访了一位技术总监：聊了聊跳槽的心态问题](https://mp.weixin.qq.com/s/NGJc71cW2TKEONe6jhIUSg)
-- [这就是架构师一天的生活，还羡慕不？](https://mp.weixin.qq.com/s/rMqSG84kNtLJ5Oiwk-S7Qw)
-- [程序员是如何玩浪漫的？](https://mp.weixin.qq.com/s/vI7EGqo7YbljRdZn2nUSMQ)
-- [假如曹操是一名程序员，你猜怎么着？](https://mp.weixin.qq.com/s/AE8dGz9asZ1de2-kvCiZwQ)
-- [周末无聊，我都逛哪些资讯类网站充电呢？](https://mp.weixin.qq.com/s/yE_fShdcgE1e1bnpHiLWyA)
-- [亲历分享：一行代码，百万人民币打水漂](https://mp.weixin.qq.com/s/dj3Z8-kgpCzzc-bQQgg__g)
-- [程序员从技术→管理，要走哪些路？](https://mp.weixin.qq.com/s/4_MB3L511h7qoXNxPRdOvQ)
-- [IT领域的2/8法则，扎心了](https://mp.weixin.qq.com/s/wd9QkLsrygO8ADW6heJg8w)
-- [周一划水必备：程序员专属GIF动图批发](https://mp.weixin.qq.com/s/Gy-Qs80rHKDJwapCmYGGEg)
-- [521坦白帖：当年念书时是怎么写情书的？](https://mp.weixin.qq.com/s/9DxslnAKgBHG85iZ8m6yYQ)
-- [一位半路转行计算机的女生](https://mp.weixin.qq.com/s/xfKoK3cQvcz-WGh50LiSBg)
-- [程序员界的孔乙己](https://mp.weixin.qq.com/s/dW81quoXMRA2ObwTzIv74g)
-- [我的大学四年收获及工作感悟](https://mp.weixin.qq.com/s/x9EEDlGNIOPOL3v_qZiiAQ)
-- [离职后，华为的哪些东西是自己最留恋的？](https://mp.weixin.qq.com/s/g5nb-yti5bv9_OCRqIjFCQ)
-- [华为最美小姐姐，被外派到墨西哥后...](https://mp.weixin.qq.com/s/Dk-9se1eFl44NdmWB_sFOQ)
-- [我在南大的七年](https://mp.weixin.qq.com/s/HrSitzmxTxWw4atXQHCa_A)
-- [垃圾领导把我的功劳全抢走了！](https://mp.weixin.qq.com/s/gknm-6k1zLY-1Cey12whSw)
-- [用随机梯度下降法来优化自己的人生！！](https://mp.weixin.qq.com/s/Rc2_rR9rJ7tx_LO_q80zuQ)
-- [美团大佬分享：写给工程师的几条精进建议](https://mp.weixin.qq.com/s/gJby-f46_hv5Wjk3Eu5iaw)
-- [我，生物专业出身，自学转到了互联网](https://mp.weixin.qq.com/s/yhY1VfuCEB0DSWYtBzMKDA)
-- [坦白贴：十一在家我都逛哪些技术网站？](https://mp.weixin.qq.com/s/jboZwMaxfs1mOdf5mxPbeA)
-
-## 读研深造
-
-- [整整5年了！老羊斗胆聊一聊和自己导师的相处](https://mp.weixin.qq.com/s/6h8GIqCdqs0pkNuwR-M7Yg)
-- [学弟跨考浙大计算机的掏心窝子分享！](https://mp.weixin.qq.com/s/cgtbhh7lrhsHXquFz7d1Ow)
-- [既然硕士毕业也去搞开发，那我还读个喵的研？](https://mp.weixin.qq.com/s/_Kt9OmaBVDDj6S7rsdC-Aw)
-- [一篇所有研究生都该读的好文：阳光温热，科研静好！](https://mp.weixin.qq.com/s/kbRlOB9hdU4j54VGF1s8oQ)
-- [如何优雅地向老师表达我这周任务没啥进展？](https://mp.weixin.qq.com/s/gbIGNXIkOpw8tQ5aIoJMtw)
-- [好不容易读个研，遇到放羊的导师怎么办？](https://mp.weixin.qq.com/s/OkxMe3Eaywx-KF9tBmjf-Q)
-- [研究生/专升本都扩招，我们没有理由放弃](https://mp.weixin.qq.com/s/MvZFLDHItPR7InzrtYRL5w)
-- [本科、硕士、博士，究竟有何区别？](https://mp.weixin.qq.com/s/Oa-1F1h6FmgodjG__2AZ_Q)
-- [一位博士的自白：毕业时想大哭一场](https://mp.weixin.qq.com/s/h6o5XpA8-M97MWILhdrO5A)
-- [一个农村博士的独白：全家为什么只有我读到了博士](https://mp.weixin.qq.com/s/EhWWnpLuhLM3_lX8Ja3qMQ)
-- [考研上岸哈工大的经历分享](https://mp.weixin.qq.com/s/hDR4FKDA4Hkc_yvXgyvI8A)
-
-## 闲聊唠嗑
-
-- [深夜闲聊：还敢无脑梭哈计算机么？](https://mp.weixin.qq.com/s/AAMmLDeZSLPkKzzGrkHd9g)
-- [那些学计算机的女生后来都怎么样了？](https://mp.weixin.qq.com/s/xweKJoGKG5NUssZioROQZw)
-- [程序员缺乏经验的7种表现](https://mp.weixin.qq.com/s/UT1muuGblZ6hFvLViti6OQ)
-- [程序员的酒后真言，都不容易](https://mp.weixin.qq.com/s/oKFHpaItmlB57gCE0sbzig)
-- [自学技术时，看书还是看视频？](https://mp.weixin.qq.com/s/1AabNVmQTyhlEnaghoyGOg)
-- [学校出身一般，该怎么办](https://mp.weixin.qq.com/s/7oOoThASit_ipIgyYzuMfA)
-- [如何写出让同事无法维护的代码？](https://mp.weixin.qq.com/s/8zP5DX79-aEuFF17MYnHtg)
-- [六成大学生认为自己毕业10年内会年入百万？](https://mp.weixin.qq.com/s/bj6LG7bq1Og8-fplcLjROA)
-- [拼多多和电网offer，要你会选哪个？](https://mp.weixin.qq.com/s/bWcoi4oEIq6_F_NSkO7lOA)
-- [C语言，50岁了！永远滴神！](https://mp.weixin.qq.com/s/Bhj0hj43jW7Ua78QENeC1g)
-
-
-## 读书写作
-
-- [羊哥今年的闲读书单！](https://mp.weixin.qq.com/s/rk0eOgioOj7yw3EjfTt5zQ)
-- [大公开：我技术文章里的动图是怎么做的？](https://mp.weixin.qq.com/s/40nmWT6DtPqcqblQuwv9Tw)
-- [坚持写博客三年了，分享几个私藏小工具](https://mp.weixin.qq.com/s/T-b7GfBoMGRuOqtp3T_HaA)
-- [白瞟七牛云作为个人博客免费图床](https://mp.weixin.qq.com/s/UU4Ha5bym4VhEDAlMZwVFQ)
----
-- [在线画图工具ProcessOn](https://www.processon.com/)
-- [在线画图工具Draw.io](https://app.diagrams.net/)
-- [在线思维导图工具MindLine](http://www.mindline.cn/webapp)
-- [在线字数统计工具](https://www.eteste.com/)
-- [mdnice markdown排版工具](https://mdnice.com/)
-- [md2all markdown排版工具](http://md.aclickall.com/)
-- [在线代码截图工具](https://carbon.now.sh/)
-
-
-## 摸鱼时间
-
-咳咳。。。
-
-  - [0x00000001](https://www.bilibili.com/)
-  - [0x00000002](https://mo.fish/)
-  - [0x00000003](http://www.mazegenerator.net/)
-  - [0x00000004](https://duomoyu.com/)
-  - [0x00000005](http://slither.io/)
-  - [0x00000006](https://www.anyknew.com/#/)
-  - [0x00000007](http://gogoame.sumbioun.com/)
-  - [0x00000008](https://flipanim.com/)
-  - [0x00000009](https://zty.pe/)
-  - [0x0000000a](https://aidn.jp/mikutap/)
-  - [0x0000000b](http://zoomquilt.org/)
-  - [0x0000000c](https://lab.bangbang93.com/wsyw)
-  - [0x0000000d](https://lmbtfy.cn/)
-  - [0x0000000e](https://suulnnka.github.io/BullshitGenerator/index.html)
-  - [0x0000000f](https://zzkia.noddl.me/)
-  - [0x00000010](https://www.dgtle.com/)
-  - [0x00000011](https://sspai.com/)
-
----
-# **联系作者**
----
-
-## 关于作者
-
-- 普通开发者，热情的学习者，狂热的数码迷
-- 90后，硕士毕业于华中科技大学电信专业，现从事IT类工作
-- 目前在南京栖息，天天被业务折腾得死去活来的同时依然保有对各项技术热忱的追求
-- 参加工作以后越来越理解交流与分享的重要性，我在不停地汲取大家宝贵经验的同时，也想回馈自己的所学所感给读者
-- 本站是作者自学编程以来所用资源和分享内容的聚合，旨在为编程自学者提供一系列清晰的学习路线/靠谱的资源/高效的工具/务实的技术文章，方便自己也方便他人。网站内容会保持持续更新，欢迎收藏品鉴
-
----
-## 心路历程
-
-- [2021-10-14：我坚持两年了！](https://mp.weixin.qq.com/s/GPVeZtMokBI_LwmcM5XEtA)
-- [2021-09-12：羊哥今年的书单！](https://mp.weixin.qq.com/s/rk0eOgioOj7yw3EjfTt5zQ)
-- [2021-08-29：读了7年通信最后还是转了码，羊哥你后悔吗？](https://mp.weixin.qq.com/s/gU5jhu9wcZHTgGuawpKE8g)
-- [2021-08-05：羊哥竟然翻出了当年的大学成绩单。。](https://mp.weixin.qq.com/s/yhOep3tFNpJ5-4YkDigVxw)
-- [2021-07-16：羊嫂偷偷抹了两个小时眼泪](https://mp.weixin.qq.com/s/OQ5dNnxFKXVt7rgRxxygyw)
-- [2021-06-23：还敢无脑梭哈计算机么？](https://mp.weixin.qq.com/s/AAMmLDeZSLPkKzzGrkHd9g)
-- [2021-06-17：羊家坝村首席高考志愿填报推荐官](https://mp.weixin.qq.com/s/oqopuK0mMP-FAxiDvPUeCg)
-- [2021-06-13：羊哥接到了百万大V的邀请！起飞了~](https://mp.weixin.qq.com/s/8CxIPP2Amb3HXPY7hKUWGA)
-- [2021-06-06：整整5年了！老羊斗胆聊一聊和自己导师的相处](https://mp.weixin.qq.com/s/6h8GIqCdqs0pkNuwR-M7Yg)
-- [2021-05-27：拜访了这位小哥的GitHub后，羊哥失眠了](https://mp.weixin.qq.com/s/-Xp84QH5zQvvHaGWTJF9MA)
-- [2021-05-21：521坦白帖：当年念书时是怎么写情书的？](https://mp.weixin.qq.com/s/9DxslnAKgBHG85iZ8m6yYQ)
-- [2021-05-09：卧槽，人品爆了 ...](https://mp.weixin.qq.com/s/q-fHPCz9YQzVDC4wC9P4YA)
-- [2021-05-05：生产队的驴都不敢这么过五一](https://mp.weixin.qq.com/s/sYPGrLBhojhqIkVAKXLZNg)
-- [2021-04-24：日子浑浑噩噩地过，这可能是我最开心的一周了](https://mp.weixin.qq.com/s/EfYQgGxOYUb6mLs4EBuCCw)
-- [2021-03-28：痴声痴色痴梦痴情几辈痴人](https://mp.weixin.qq.com/s/VqVFhueNtm9jN1GrW4Ebsg)
-- [2021-03-21：我和羊嫂的3平米小书房](https://mp.weixin.qq.com/s/KTD15ZQ4xdTJXt-MVWa7zg)
-- [2021-02-28：哎，我也想有一个这样的老婆啊](https://mp.weixin.qq.com/s/-Odh3JZNzJzGLGLiCf_uzw)
-- [2021-01-14：熬夜多疯狂，体检报告就有多刺激！我怂了](https://mp.weixin.qq.com/s/B9iPfm4DVAwHR1e-wWNPOg)
-- [2021-01-10：去芜湖、看房子、拿体检报告，魔幻的2021开端~](https://mp.weixin.qq.com/s/v1TiNA7XJeMp92u-YLLxjg)
-- [2020-12-13：今天的南京，很冷很冷](https://mp.weixin.qq.com/s/lfm_y0WskLrQJc55JYdu2Q)
-- [2020-10-22：和字节跳动面试官学长聊了聊人生~](https://mp.weixin.qq.com/s/WDatlUIMnADEASTzBTQZQw)
-- [2020-10-15：愿那只在天堂的猫，能够被温柔相待](https://mp.weixin.qq.com/s/ukyCJTXeD9ZoSaNK-WV0Ig)
-- [2020-10-06：老家被拆了，我的少年记忆也无处安放了](https://mp.weixin.qq.com/s/9hw1FTUGZANgcecCFUDovQ)
-- [2020-09-06：没有什么事是一顿撸串解决不了的~](https://mp.weixin.qq.com/s/QHvFgYQLvTrwAsxdWe_eAQ)
-- [2020-08-08：实不相瞒，我就是鹤岗的女婿~](https://mp.weixin.qq.com/s/kXjD-lIZpVjSroKkGHA7SQ)
-- [2020-07-18：最近厚着脸皮联系了不少同学](https://mp.weixin.qq.com/s/FlnZuzmZ9eNK1ahkvC98CA)
-- [2020-07-03：自学党/野生猿，项目经验上哪搞？](https://mp.weixin.qq.com/s/-mFZnE8-DNG6XVM-t589-Q)
-- [2020-06-21：既然硕士毕业也去搞开发，那我还读个喵的研？](https://mp.weixin.qq.com/s/_Kt9OmaBVDDj6S7rsdC-Aw)
-- [2020-06-14：我的毕业季，没有一点点仪式感](https://mp.weixin.qq.com/s/0iSzqJBj7YHkijGxbFUqCQ)
-- [2020-05-08：最近状态不咋好...](https://mp.weixin.qq.com/s/C9HuUYis2zu6ThJAjXRqpA)
-- [2020-05-01：二线城市的程序员活得好吗？](https://mp.weixin.qq.com/s/gOo8ztVLdXp3m_rvBozQpQ)
-- [2020-04-21：自学编程的八大误区！克服它！](https://mp.weixin.qq.com/s/r_vm7lA2Ul_ZFhkx60wplg)
-- [2020-04-08：我的本科回忆录：从迷茫自卑到保送华科](https://mp.weixin.qq.com/s/t9F6Z-DrybWLUxVrPTRPJw)
-- [2020-03-15：到底要不要考研？](https://mp.weixin.qq.com/s/pwInIR-h1gkPXGuu4u1aWw)
-- [2020-02-23：实不相瞒，在家远程办公15天，我有点自闭](https://mp.weixin.qq.com/s/gJBlu5gXL5vqYWG6ggisRw)
-- [2020-02-16：昨夜，我梦回武汉 . . .](https://mp.weixin.qq.com/s/lfGqTBuyRSiA9NL-8Na-xg)
-- [2020-02-02：转行的路，走起来其实有点累...](https://mp.weixin.qq.com/s/FPreCde-JHl2D6HZDGK7qg)
-- [2020-01-23：来B站一年，我活成了人的模样！](https://mp.weixin.qq.com/s/-RWgqMi2iKFUQGWbgyyo3w)
-- [2019-10-28：快30岁的我，终于赚到人生第一个10W！](https://mp.weixin.qq.com/s/i-EFuFb7yPpoOidme18EWA)
-- [2019-09-08：华科研究生学长想对导师们说的话！](https://mp.weixin.qq.com/s/TO9-kBWKFs2sV1z0Hw3qWw)
-
----
-## 微信联系
-
-<p align="left">
+<!-- <p align="left">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/qrcode_for_gh_1537917051d0_258.nd3fymuhyts.jpeg" width=""/>
     </a>
-</p>
-
-
----
-# **本站开源地址**
----
-
-## GitHub开源地址
-
-- [https://github.com/rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding) **欢迎Star支持**
-
-## Gitee开源地址
-
-- [https://gitee.com/rd2coding/Road2Coding](https://gitee.com/rd2coding/Road2Coding) **欢迎Star支持**
-
-
----
-# 持续更新中...
-
-网站内容会持续保持更新，欢迎收藏品鉴！
+</p> -->

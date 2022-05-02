@@ -3,11 +3,11 @@
     
 场景描述
 有一个jar包无法通过maven自动识别下载，即maven的远程仓库里没有该jar包（或者有依赖坐标，但是下载不了）如 aspose-words
-maven地址：![1](D:\soft\tools\codeTools\gitFIles\rhperknowledge.github.io\docs\docsMark\codeView\assert\maven\1.png)
+maven地址：![1](https://cdn.jsdelivr.net/gh/mrh167/rhperknowledge.github.io@release-image/images/image2.png/1.png)
 
 
 
-![2](D:\soft\tools\codeTools\gitFIles\rhperknowledge.github.io\docs\docsMark\codeView\assert\maven\2.png)
+![2](https://cdn.jsdelivr.net/gh/mrh167/rhperknowledge.github.io@release-image/images/image2.png/2.png)
 
 
 
@@ -16,7 +16,7 @@ maven地址：![1](D:\soft\tools\codeTools\gitFIles\rhperknowledge.github.io\doc
 但是，如果将项目打成jar包时， aspose-words并不会打进包，即这个项目还是有问题的。
 手动导入jar包maven是无法识别到，因为maven在自动下载jar包时还会生成几个其他文件，因为手动导jar包没有这几个文件，导致识别失败。
 
-![3](D:\soft\tools\codeTools\gitFIles\rhperknowledge.github.io\docs\docsMark\codeView\assert\maven\3.png)
+![3](https://cdn.jsdelivr.net/gh/mrh167/rhperknowledge.github.io@release-image/images/image2.png/3.png)
 
 
 
@@ -40,10 +40,10 @@ maven地址：![1](D:\soft\tools\codeTools\gitFIles\rhperknowledge.github.io\doc
 
 2、手动下载的jar包，存放在一位置；
 
-![4](D:\soft\tools\codeTools\gitFIles\rhperknowledge.github.io\docs\docsMark\codeView\assert\maven\4.png)
+![4](https://cdn.jsdelivr.net/gh/mrh167/rhperknowledge.github.io@release-image/images/image2.png/4.png)
 
 3、查看MAVEN_HOME配置信息，查看默认使用的maven位置，再查看对应的setting.xml里依赖下载的位置（不要跟项目中使用的maven配置混淆了，可能有些同学电脑里不止一个maven，不止一个setting.xml文件，不止一个依赖存放的位置，不要弄错了，这一步就是为了知道在执行命令行后能找到生成文件的位置，很多同学因为找错位置以为生成不成功）
-![5](D:\soft\tools\codeTools\gitFIles\rhperknowledge.github.io\docs\docsMark\codeView\assert\maven\5.png)
+![5](https://cdn.jsdelivr.net/gh/mrh167/rhperknowledge.github.io@release-image/images/image2.png/5.png)
 
 4、执行mvn命令（如果配置MAVEN_HOME可以在任意位置打开cmd执行）
 
@@ -67,7 +67,7 @@ mvn install:install-file -Dfile=D:\aspose-words-15.8.0-jdk16.jar -DgroupId=com.a
 
 执行之后，会在本地仓库下载jar包及maven指向生效文件，这时该坐标就可以使用了
 
-![6](D:\soft\tools\codeTools\gitFIles\rhperknowledge.github.io\docs\docsMark\codeView\assert\maven\6.png)
+![6](https://cdn.jsdelivr.net/gh/mrh167/rhperknowledge.github.io@release-image/images/image2.png/6.png)
 
 note：
 

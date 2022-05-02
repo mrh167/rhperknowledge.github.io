@@ -1,4 +1,4 @@
-![logo](https://cdn.jsdelivr.net/gh/mrh167/rhperknowledge.github.io@release-image/image/image2.png)
+![logo](https://cdn.jsdelivr.net/gh/mrh167/rhperknowledge.github.io@release-image/images/image2.png)
 
 # 个人知识网站
 

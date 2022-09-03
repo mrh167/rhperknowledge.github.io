@@ -35,6 +35,8 @@
 ![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/contentmap.3sdmma4od740.png)
 
 --- -->
+# **面试宝典**
+[面试宝典](docsMark/codeView/interviewBible.md)
 # **工具类封装**
 [easyExcel封装](docsMark/codeView/easyExcel.md)
 
